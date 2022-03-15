@@ -1,0 +1,27 @@
+* {
+    font-family: 'Verdana';
+}
+
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: cover;
+    background-position: center bottom;
+}
+.jumbotron h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.jumbotron h3{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#selDataset {
+    color: black
+}
+
+#sample-metadata {
+    color: black
+}
